@@ -1,2 +1,2 @@
-MpScan -ScanType FullScan
+Start-MpScan -ScanType FullScan
 Remove-MpThreat
